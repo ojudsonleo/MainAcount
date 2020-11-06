@@ -1,0 +1,9 @@
+# world events
+cave_entrance,
+door,
+door,
+chest,
+npc,col1,row1,col2,row2,text_state_1,text_state_2,text_state_3
+stair_up
+stair_down
+king

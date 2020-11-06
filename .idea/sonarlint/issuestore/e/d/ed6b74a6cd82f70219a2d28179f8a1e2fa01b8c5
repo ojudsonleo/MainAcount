@@ -1,0 +1,890 @@
+
+Lpython:S1481º",Remove the unused local variable "__spec__".(ı•óÿ8º·Ï•Ù.
+Hpython:S5603æ"(Remove this unused function declaration.(’©”Ù8º·Ï•Ù.
+Hpython:S5603Ê:"(Remove this unused function declaration.(Å§Œ‹8º·Ï•Ù.
+upython:S1192›y"PDefine a constant instead of duplicating this literal "Adding to cart" 23 times.(˜©é„şÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¤"(Remove this unused function declaration.(ˆ®ïÈıÿÿÿÿ8º·Ï•Ù.
+Dpython:S5603ú!"%Remove this unused class declaration.(æ¸?8º·Ï•Ù.
+Mpython:S1481Ê"-Remove the unused local variable "O_ACCMODE".(ì½”8º·Ï•Ù.
+Opython:S1481˜>"/Remove the unused local variable "thread_info".(­ÌÌõ8º·Ï•Ù.
+Ppython:S5806`"+Rename this variable; it shadows a builtin.(°ºÄÍûÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481û="+Remove the unused local variable "modules".(ÌËñ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(®‹¿ıÿÿÿÿ8º·Ï•Ù.
+`python:S5720¨w";Rename "cls" to "self" or add the missing "self" parameter.(½Á¸¨ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481‡"(Remove the unused local variable "path".(¿³şñûÿÿÿÿ8º·Ï•Ù.
+bpython:S112€O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÇO">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ô"(Remove this unused function declaration.(¦åËµúÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481µ"-Remove the unused local variable "EX_NOHOST".(ºÆã»8º·Ï•Ù.
+Xpython:S1481ˆ%"3Remove the unused local variable "_have_functions".(°íğ“úÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603‹"(Remove this unused function declaration.(èì…üÿÿÿÿ8º·Ï•Ù.
+_python:S1481¢‰"9Remove the unused local variable "WrapperDescriptorType".(£ƒ‡úÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÓT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÕZ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ì"(Remove this unused function declaration.(ÿ´õ8º·Ï•Ù.
+Hpython:S5603ö"(Remove this unused function declaration.(Èâ‹ç8º·Ï•Ù.
+Spython:S930ÎE"/Remove this unexpected named argument 'dir_fd'.(ø¹µÖúÿÿÿÿ8º·Ï•Ù.
+Zpython:S1481ã"5Remove the unused local variable "POSIX_FADV_RANDOM".(ªÃÔÅşÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ê;"(Remove this unused function declaration.(ôÜŠç8º·Ï•Ù.
+bpython:S112²O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481Å%",Remove the unused local variable "__name__".(“ğ’·úÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481Š"1Remove the unused local variable "ST_NODIRATIME".(ã­ÄÏ8º·Ï•Ù.
+Npython:S1481×".Remove the unused local variable "O_NOFOLLOW".(Çÿ¾ó8º·Ï•Ù.
+qpython:S117¡("MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+xpython:S1192íX"XDefine a constant instead of duplicating this literal "True you are a teenager" 3 times.(ÑËÁ8º·Ï•Ù.
+bpython:S112ˆU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S1481¨>"(Remove the unused local variable "_git".(¸÷çå8º·Ï•Ù.
+Opython:S1481¢"/Remove the unused local variable "thread_info".(­ÌÌõ8º·Ï•Ù.
+Npython:S1481ö".Remove the unused local variable "RTLD_LOCAL".(ü·ã³8º·Ï•Ù.
+Mpython:S5603ö:"(Remove this unused function declaration.(ôÛúùÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481¹>"-Remove the unused local variable "exc_value".(Ï‚œÂ8º·Ï•Ù.
+\python:S930ûE"8Remove this unexpected named argument 'follow_symlinks'.(Ó²ïÄùÿÿÿÿ8º·Ï•Ù.
+lpython:S1192—L"LDefine a constant instead of duplicating this literal "my name is " 5 times.(Ê ¼Ş8º·Ï•Ù.
+bpython:S112ãM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+zpython:S3776–‡"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ô·€éùÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481È#"1Remove the unused local variable "confstr_names".(¡ªèàşÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603è?"(Remove this unused function declaration.(›½¬×ıÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481Ã"-Remove the unused local variable "exc_value".(Ï‚œÂ8º·Ï•Ù.
+Mpython:S5603„"(Remove this unused function declaration.(ï÷•èúÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ı"(Remove this unused function declaration.(¤±î·8º·Ï•Ù.
+Mpython:S5603„"(Remove this unused function declaration.(š»ª³ùÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481ù",Remove the unused local variable "RTLD_NOW".(™¼¼íùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ã"(Remove this unused function declaration.(ŞÜˆ´ûÿÿÿÿ8º·Ï•Ù.
+Jpython:S5603Ş!"%Remove this unused class declaration.(ùŸ­‘üÿÿÿÿ8º·Ï•Ù.
+qpython:S117Â&"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+rpython:S2710á"QRename "self" to a valid class parameter name or add the missing class parameter.(ÉÓ§¬8º·Ï•Ù.
+Mpython:S5603œ?"(Remove this unused function declaration.(¬ä«¦ûÿÿÿÿ8º·Ï•Ù.
+Opython:S1481ˆ")Remove the unused local variable "ASYNC".(¬±¤Éúÿÿÿÿ8º·Ï•Ù.
+bpython:S112¸N">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481ë"-Remove the unused local variable "hash_info".(ï†Ğ8º·Ï•Ù.
+bpython:S112ÁW">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481†‰",Remove the unused local variable "CellType".(Ì›­¥ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603î:"(Remove this unused function declaration.(Å”çµøÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481è"4Remove the unused local variable "POSIX_SPAWN_DUP2".(ÈœÇÕ8º·Ï•Ù.
+bpython:S112íU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+tpython:S3776€†"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ï¸8º·Ï•Ù.
+bpython:S112Á[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¢"(Remove this unused function declaration.(…èÛ¬ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112‘M">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+rpython:S1542±l"MRename function "Library" to match the regular expression ^[a-z_][a-z0-9_]*$.( é¥Úøÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481¦>"/Remove the unused local variable "warnoptions".(±áñ˜ıÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Œ?"(Remove this unused function declaration.(ŒƒáÂúÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603:"(Remove this unused function declaration.(ØÊÑ¾ûÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ª"(Remove this unused function declaration.(¯¿ùùÿÿÿÿ8º·Ï•Ù.
+Spython:S1481³".Remove the unused local variable "EX_DATAERR".(§ÿ«šüÿÿÿÿ8º·Ï•Ù.
+bpython:S112¤W">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603°"(Remove this unused function declaration.(ÆÒ8º·Ï•Ù.
+Hpython:S5603®"(Remove this unused function declaration.(‚ùª¶8º·Ï•Ù.
+†python:S1192†p"fDefine a constant instead of duplicating this literal "|                                 |" 180 times.(Í²íÁ8º·Ï•Ù.
+Mpython:S5603ş"(Remove this unused function declaration.(›éıüÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603œ"(Remove this unused function declaration.(’ËÄ-8º·Ï•Ù.
+bpython:S112ÚX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+gpython:S1763¦l"GDelete this unreachable code or refactor the code to make it reachable.(²àïÔ8º·Ï•Ù.
+tpython:S3776—D"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(“µŞª8º·Ï•Ù.
+Npython:S5603áˆ"(Remove this unused function declaration.(É‘‚íşÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603“"(Remove this unused function declaration.(ı¯å8º·Ï•Ù.
+bpython:S112½L">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481”-"+Remove the unused local variable "__all__".(­‘­úÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603–"(Remove this unused function declaration.(ØÉª™8º·Ï•Ù.
+bpython:S112¹O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+\python:S1481à"7Remove the unused local variable "POSIX_FADV_DONTNEED".(¸÷È§ıÿÿÿÿ8º·Ï•Ù.
+Dpython:S5603ı""%Remove this unused class declaration.(§·ş/8º·Ï•Ù.
+Mpython:S1481ı="(Remove the unused local variable "path".(¿³şñûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¼:"(Remove this unused function declaration.(ô•÷8º·Ï•Ù.
+bpython:S112“Q">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÈW">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Tpython:S1066Ó^"/Merge this if statement with the enclosing one.(÷Ø¾©ûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603²"(Remove this unused function declaration.(¿“·8º·Ï•Ù.
+Lpython:S1481ğ9"-Remove the unused local variable "copyright".(ÌÃé}8º·Ï•Ù.
+Qpython:S1481£ˆ"+Remove the unused local variable "COMMENT".(³¯¡üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603™"(Remove this unused function declaration.(ØÊÑ¾ûÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¤"(Remove this unused function declaration.(Ì» Áøÿÿÿÿ8º·Ï•Ù.
+bpython:S112¹P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Npython:S1481­".Remove the unused local variable "CLD_DUMPED".(Á›ïÁ8º·Ï•Ù.
+Tpython:S1481ö9"/Remove the unused local variable "exec_prefix".(ÀöÌ¡şÿÿÿÿ8º·Ï•Ù.
+bpython:S112¶V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603á;"(Remove this unused function declaration.(ıÌôù8º·Ï•Ù.
+bpython:S112æU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Opython:S1481Ä"*Remove the unused local variable "F_TEST".(ÇØéıÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603€"(Remove this unused function declaration.(ôÛúùÿÿÿÿ8º·Ï•Ù.
+Kpython:S5806Ü4"+Rename this variable; it shadows a builtin.(«’8º·Ï•Ù.
+Mpython:S5603ú:"(Remove this unused function declaration.(š»ª³ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Í"(Remove this unused function declaration.(ûå¦Öûÿÿÿÿ8º·Ï•Ù.
+Ypython:S1481‡:"4Remove the unused local variable "_base_executable".(ËÖŸ²ùÿÿÿÿ8º·Ï•Ù.
+‚python:S1192y"]Define a constant instead of duplicating this literal "click enter to continue..." 115 times.(ªìæÍıÿÿÿÿ8º·Ï•Ù.
+zpython:S1192èX"ZDefine a constant instead of duplicating this literal "False you are not a adult" 3 times.(ÙŞ¨Ü8º·Ï•Ù.
+^python:S5720ƒB">Rename "module" to "self" or add the missing "self" parameter.(ä“½û8º·Ï•Ù.
+Hpython:S5603ş"(Remove this unused function declaration.(ª®‚…8º·Ï•Ù.
+qpython:S117’'"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+upython:S3776“ƒ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(–Í”Ü8º·Ï•Ù.
+Npython:S1481Á=")Remove the unused local variable "flags".(ßÃñ¹üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603®?"(Remove this unused function declaration.(®Å8º·Ï•Ù.
+bpython:S112±N">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481ı"6Remove the unused local variable "compatible_formats".(À¼ã²8º·Ï•Ù.
+Hpython:S5603ì"(Remove this unused function declaration.(¤ä”8º·Ï•Ù.
+vpython:S1542—l"QRename function "eclipse_IDE" to match the regular expression ^[a-z_][a-z0-9_]*$.(éıüÈşÿÿÿÿ8º·Ï•Ù.
+kpython:S1542ün"KRename function "isOdd" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Ôà¯8º·Ï•Ù.
+Qpython:S1481¬"1Remove the unused local variable "CLD_CONTINUED".(¡ÁÛ‰8º·Ï•Ù.
+=python:S3626¬`"Remove this redundant return.(ÙãŞŸ8º·Ï•Ù.
+spython:S1192¤y"NDefine a constant instead of duplicating this literal "installing.." 46 times.(àÃ†Üùÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481ï=",Remove the unused local variable "int_info".(úÑÜüûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ä"(Remove this unused function declaration.(Èœ²Ä8º·Ï•Ù.
+Hpython:S5603£"(Remove this unused function declaration.(´ú©Ï8º·Ï•Ù.
+Mpython:S5603²"(Remove this unused function declaration.(»±óÿÿÿÿÿ8º·Ï•Ù.
+zpython:S1192öX"UDefine a constant instead of duplicating this literal "True you are a child" 3 times.(â´í„øÿÿÿÿ8º·Ï•Ù.
+bpython:S112óS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112‰P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603â:"(Remove this unused function declaration.(”òñá8º·Ï•Ù.
+\python:S5754ša"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+bpython:S112–W">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ì[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ã"(Remove this unused function declaration.(Ê¿«ãùÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481x"-Remove the unused local variable "byteorder".(Ÿ‡îß8º·Ï•Ù.
+Mpython:S5603†"(Remove this unused function declaration.(Áï„àúÿÿÿÿ8º·Ï•Ù.
+upython:S1542¤"PRename function "WIFSTOPPED" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒêå‘şÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481ùˆ".Remove the unused local variable "LambdaType".(ŠµÂ®ıÿÿÿÿ8º·Ï•Ù.
+ppython:S100çZ"LRename method "FindWord" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê¹Ä„şÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806ï"+Rename this variable; it shadows a builtin.(™°¼²ùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603£:"(Remove this unused function declaration.(ê¹ß8º·Ï•Ù.
+Mpython:S5603È;"(Remove this unused function declaration.(±ÄÛ™ÿÿÿÿÿ8º·Ï•Ù.
+Npython:S1481Ø".Remove the unused local variable "O_NONBLOCK".(ÎÖ›³8º·Ï•Ù.
+Opython:S5806"+Rename this variable; it shadows a builtin.(êÈûÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481ì>",Remove the unused local variable "timezone".(±¢Üşüÿÿÿÿ8º·Ï•Ù.
+Xpython:S1481³‰"8Remove the unused local variable "GetSetDescriptorType".(Âæ—h8º·Ï•Ù.
+Mpython:S1481õ"-Remove the unused local variable "RTLD_LAZY".(¼ç´…8º·Ï•Ù.
+Lpython:S1481´>"-Remove the unused local variable "__stdin__".(‡ûÑ(8º·Ï•Ù.
+Kpython:S5806À"+Rename this variable; it shadows a builtin.(“Â‡ú8º·Ï•Ù.
+Qpython:S1481æ9",Remove the unused local variable "abiflags".(İïãíûÿÿÿÿ8º·Ï•Ù.
+qpython:S117ä&"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÖW">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Š"(Remove this unused function declaration.(ÏÏô¢ûÿÿÿÿ8º·Ï•Ù.
+Epython:S5603½8"%Remove this unused class declaration.(È èÙ8º·Ï•Ù.
+Hpython:S5603Ø"(Remove this unused function declaration.(„µ±8º·Ï•Ù.
+Hpython:S1481²"(Remove the unused local variable "_git".(¸÷çå8º·Ï•Ù.
+Mpython:S5603¢;"(Remove this unused function declaration.(²èÂ³ıÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÌX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Opython:S1481Ò"*Remove the unused local variable "O_EXCL".(Êèíöÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112½V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603‘@"(Remove this unused function declaration.(Õªµûÿÿÿÿ8º·Ï•Ù.
+Upython:S3862İH"0Replace this expression with an iterable object.(ÜÀ¬úÿÿÿÿ8º·Ï•Ù.
+Epython:S5603æ "%Remove this unused class declaration.( ÒŠ¡8º·Ï•Ù.
+bpython:S112„[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ü>"(Remove this unused function declaration.(¹¤ÔÜøÿÿÿÿ8º·Ï•Ù.
+gpython:S1763©l"GDelete this unreachable code or refactor the code to make it reachable.(ôáÀ•8º·Ï•Ù.
+Opython:S1481 "*Remove the unused local variable "stdout".(†ˆÿÿÿÿÿ8º·Ï•Ù.
+Npython:S1481¶>".Remove the unused local variable "__stdout__".(ÑôÑí8º·Ï•Ù.
+bpython:S112’Z">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Dpython:S5603ÊA"%Remove this unused class declaration.(§·ş/8º·Ï•Ù.
+‰python:S101‚p"jRename class "numbersToRsTo100" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¢ŸÔ¥8º·Ï•Ù.
+Mpython:S5603Ø?"(Remove this unused function declaration.(“½ëôÿÿÿÿÿ8º·Ï•Ù.
+€python:S117ùˆ"[Rename this local variable "LambdaType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠµÂ®ıÿÿÿÿ8º·Ï•Ù.
+bpython:S112«W">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Spython:S1481à>"3Remove the unused local variable "CLOCK_MONOTONIC".(–óÏ8º·Ï•Ù.
+Kpython:S1481ë‡"*Remove the unused local variable "INDENT".(–•»«8º·Ï•Ù.
+tpython:S3776ğ~"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(‘ó¸Ù8º·Ï•Ù.
+Mpython:S5603º/"(Remove this unused function declaration.(†ø ×ıÿÿÿÿ8º·Ï•Ù.
+bpython:S112ó[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603í"(Remove this unused function declaration.(†Êß8º·Ï•Ù.
+bpython:S112¶T">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Jpython:S5603Õ""%Remove this unused class declaration.(Ô¹ùÀüÿÿÿÿ8º·Ï•Ù.
+zpython:S1186İ‡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ŞÑö‚8º·Ï•Ù.
+apython:S1481ä>"<Remove the unused local variable "CLOCK_PROCESS_CPUTIME_ID".(Éœº¿ùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ç@"(Remove this unused function declaration.(ø´ãó8º·Ï•Ù.
+bpython:S112³K">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112¨T">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¤"(Remove this unused function declaration.(Û„´¿8º·Ï•Ù.
+Špython:S1192K"eDefine a constant instead of duplicating this literal "please enter the correct value int" 148 times.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481",Remove the unused local variable "ST_WRITE".(–¼Ğ´üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Æ"(Remove this unused function declaration.(‡ü£Ëüÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481ó"1Remove the unused local variable "RTLD_DEEPBIND".(Úú™Œşÿÿÿÿ8º·Ï•Ù.
+Fpython:S1481¤ˆ"&Remove the unused local variable "NL".(†õV8º·Ï•Ù.
+Npython:S1481È"/Remove the unused local variable "NGROUPS_MAX".(Â¹¨}8º·Ï•Ù.
+^python:S5655†F">Change this argument; Function "stat" expects a different type(åôé­8º·Ï•Ù.
+Rpython:S1481¥ˆ",Remove the unused local variable "ENCODING".(´Ì»Ïûÿÿÿÿ8º·Ï•Ù.
+gpython:S1763¨l"GDelete this unreachable code or refactor the code to make it reachable.(‚¨è8º·Ï•Ù.
+Tpython:S1481é"4Remove the unused local variable "POSIX_SPAWN_OPEN".(•‡î¤8º·Ï•Ù.
+Wpython:S1481å"7Remove the unused local variable "POSIX_FADV_WILLNEED".(Ñæá8º·Ï•Ù.
+Mpython:S1481·"-Remove the unused local variable "EX_NOPERM".(ïÏ²Ø8º·Ï•Ù.
+bpython:S112øK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¤"(Remove this unused function declaration.(ó‘¢‹ûÿÿÿÿ8º·Ï•Ù.
+rpython:S1542“"RRename function "WIFCONTINUED" to match the regular expression ^[a-z_][a-z0-9_]*$.(ı¯å8º·Ï•Ù.
+qpython:S117¤'"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¦;"(Remove this unused function declaration.(ÆÒ8º·Ï•Ù.
+rpython:S117Ï‚"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ŸM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+qpython:S1542 "QRename function "WIFSIGNALED" to match the regular expression ^[a-z_][a-z0-9_]*$.(Áî‘á8º·Ï•Ù.
+Hpython:S5603"(Remove this unused function declaration.(ş®ú8º·Ï•Ù.
+Mpython:S5603Ù"(Remove this unused function declaration.(¨¾”ëûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603²"(Remove this unused function declaration.(¨°¼®8º·Ï•Ù.
+bpython:S112U">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+~python:S117†‰"YRename this local variable "CellType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì›­¥ÿÿÿÿÿ8º·Ï•Ù.
+qpython:S117şl"SRename this parameter "showAll" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç²¦S8º·Ï•Ù.
+Mpython:S5603®;"(Remove this unused function declaration.(ú¡Æàÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÃU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481p",Remove the unused local variable "abiflags".(İïãíûÿÿÿÿ8º·Ï•Ù.
+bpython:S112ú[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481ù",Remove the unused local variable "int_info".(úÑÜüûÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÕO">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603˜"(Remove this unused function declaration.(Äü»ü8º·Ï•Ù.
+Mpython:S5603¥"(Remove this unused function declaration.(şóŸşşÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603ñi"(Remove this unused function declaration.(œŸ²_8º·Ï•Ù.
+Hpython:S5603€@"(Remove this unused function declaration.(¢™Ş8º·Ï•Ù.
+Ppython:S5806š"+Rename this variable; it shadows a builtin.(õà¤¤ıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603®"(Remove this unused function declaration.(ğà‚Â8º·Ï•Ù.
+Kpython:S1481z"-Remove the unused local variable "copyright".(ÌÃé}8º·Ï•Ù.
+Mpython:S5603€"(Remove this unused function declaration.(¶¦é–ÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ì"(Remove this unused function declaration.(Ñîä8º·Ï•Ù.
+Hpython:S5603ş:"(Remove this unused function declaration.(°ù¢ˆ8º·Ï•Ù.
+Jpython:S1481•B"*Remove the unused local variable "tzname".(Ö¹ã÷8º·Ï•Ù.
+€python:S117§‰"[Rename this local variable "ModuleType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ïµ–ıÿÿÿÿ8º·Ï•Ù.
+Npython:S1481ç‡"(Remove the unused local variable "NAME".(šı®ùÿÿÿÿ8º·Ï•Ù.
+python:S1192šU"_Define a constant instead of duplicating this literal "|                            |" 8 times.(Í²íÁ8º·Ï•Ù.
+Ppython:S5806¼e"+Rename this variable; it shadows a builtin.(æ„³Ãøÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ö@"(Remove this unused function declaration.(±ãú8º·Ï•Ù.
+Mpython:S5603¥"(Remove this unused function declaration.(éÜûõúÿÿÿÿ8º·Ï•Ù.
+zpython:S1192úX"[Define a constant instead of duplicating this literal "False you are not a childe" 3 times.(±†ï38º·Ï•Ù.
+4python:S1700™v"Rename field "queue"(¬œ …8º·Ï•Ù.
+Wpython:S1481>"7Remove the unused local variable "path_importer_cache".(®îåº8º·Ï•Ù.
+Mpython:S5603¹"(Remove this unused function declaration.(‹ö€íıÿÿÿÿ8º·Ï•Ù.
+ˆpython:S1192Øu"hDefine a constant instead of duplicating this literal "'timeout' must be a non-negative number" 3 times.(Ï¹«Ã8º·Ï•Ù.
+Mpython:S5603Ói"(Remove this unused function declaration.(ìùàøÿÿÿÿ8º·Ï•Ù.
+Opython:S1481–>"*Remove the unused local variable "stdout".(†ˆÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÓK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481™"+Remove the unused local variable "WNOWAIT".(ÏÕüñ8º·Ï•Ù.
+python:S1186‚…"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ˆµÇãøÿÿÿÿ8º·Ï•Ù.
+^python:S1481¥‰"=Remove the unused local variable "ClassMethodDescriptorType".(™®öÕ8º·Ï•Ù.
+Hpython:S5603İ"(Remove this unused function declaration.(İú÷Ú8º·Ï•Ù.
+^python:S1481´‰"8Remove the unused local variable "MemberDescriptorType".(¿áØÎùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ø?"(Remove this unused function declaration.(¬ŠÚäıÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481Ç"(Remove the unused local variable "argv".(§Š¾úùÿÿÿÿ8º·Ï•Ù.
+bpython:S112«O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ë"(Remove this unused function declaration.(ıÌôù8º·Ï•Ù.
+Mpython:S5603õ"(Remove this unused function declaration.(¸ÍÊÿÿÿÿÿ8º·Ï•Ù.
+vpython:S2710ô*"QRename "self" to a valid class parameter name or add the missing class parameter.(Ù÷»¼ûÿÿÿÿ8º·Ï•Ù.
+Spython:S1481Ó=".Remove the unused local variable "float_info".(¶°Ê÷şÿÿÿÿ8º·Ï•Ù.
+rpython:S117»‚"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ü"(Remove this unused function declaration.(µ¯–æşÿÿÿÿ8º·Ï•Ù.
+Epython:S5603ê"%Remove this unused class declaration.(¿™ì8º·Ï•Ù.
+bpython:S112üZ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ø"(Remove this unused function declaration.(Å”çµøÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ã?"(Remove this unused function declaration.(Šèß×ûÿÿÿÿ8º·Ï•Ù.
+]python:S1481É"8Remove the unused local variable "builtin_module_names".(ô…÷ƒÿÿÿÿÿ8º·Ï•Ù.
+Spython:S1481®‰"-Remove the unused local variable "FrameType".(Ë ›üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ñK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Opython:S1481‰".Remove the unused local variable "MethodType".(ê·Ù÷8º·Ï•Ù.
+Vpython:S1481ÿ#"1Remove the unused local variable "sysconf_names".(¼ğ‰Íüÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806Å%"+Rename this variable; it shadows a builtin.(“ğ’·úÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481Æ"+Remove the unused local variable "F_ULOCK".(ûŞş³ùÿÿÿÿ8º·Ï•Ù.
+bpython:S112‹Z">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Š<"(Remove this unused function declaration.(›±™³8º·Ï•Ù.
+Mpython:S5603Ş<"(Remove this unused function declaration.(†Èÿ¶şÿÿÿÿ8º·Ï•Ù.
+bpython:S112¤V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+|python:S117û"XRename this local variable "Pickler" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÕ‚Íùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¹"(Remove this unused function declaration.(åüŠôùÿÿÿÿ8º·Ï•Ù.
+Ipython:S1481")Remove the unused local variable "stdin".(Á¸˜¯8º·Ï•Ù.
+bpython:S112¬P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603”"(Remove this unused function declaration.(›±™³8º·Ï•Ù.
+Hpython:S5603ô"(Remove this unused function declaration.(åÜèŒ8º·Ï•Ù.
+Ppython:S1481ì‡"*Remove the unused local variable "DEDENT".(Æ™ê€úÿÿÿÿ8º·Ï•Ù.
+qpython:S117¶'"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603µ"(Remove this unused function declaration.(‚ğ­øşÿÿÿÿ8º·Ï•Ù.
+ƒpython:S117‘‰"^Rename this local variable "CoroutineType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖşÔºÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481Ÿ"(Remove the unused local variable "W_OK".(¾Çåûÿÿÿÿ8º·Ï•Ù.
+‰python:S1192t"jDefine a constant instead of duplicating this literal '/home/obedotto/anaconda3/envs/joeljebitto' 8 times.(Ä¢»8º·Ï•Ù.
+Upython:S1481>"0Remove the unused local variable "version_info".(İé÷Ğøÿÿÿÿ8º·Ï•Ù.
+bpython:S112É[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112üR">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112¤O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603í"(Remove this unused function declaration.(‹úšÛ8º·Ï•Ù.
+Mpython:S5603‰"(Remove this unused function declaration.(şã‘ÿÿÿÿÿ8º·Ï•Ù.
+Fpython:S5603‰Š"%Remove this unused class declaration.(ş÷Ğ›8º·Ï•Ù.
+Lpython:S1481º",Remove the unused local variable "EX_OSERR".(÷Ğ½¯8º·Ï•Ù.
+Rpython:S1481¦ˆ",Remove the unused local variable "N_TOKENS".(İ¹Ò“şÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603º"(Remove this unused function declaration.(ÍÜ·b8º·Ï•Ù.
+\python:S5754³c"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Kpython:S1481Ô",Remove the unused local variable "O_NDELAY".(Öã¤48º·Ï•Ù.
+zpython:S3776êˆ"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(š˜ğøÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¶i"(Remove this unused function declaration.(ˆ–„áùÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481Å"+Remove the unused local variable "F_TLOCK".(¸–Ø«8º·Ï•Ù.
+upython:S3776ª%"URefactor this function to reduce its Cognitive Complexity from 157 to the 15 allowed.(Ïşı¸8º·Ï•Ù.
+Mpython:S5603è"(Remove this unused function declaration.(¯Íúÿÿÿÿ8º·Ï•Ù.
+bpython:S112U">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806÷"+Rename this variable; it shadows a builtin.(ö¾Ä¯øÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603À"(Remove this unused function declaration.(Ù¿ˆÙ8º·Ï•Ù.
+Jpython:S5603Ã"%Remove this unused class declaration.(¡ÚÆñûÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ğ?"(Remove this unused function declaration.(ªòÔúÿÿÿÿ8º·Ï•Ù.
+bpython:S112‘X">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+|python:S1186‰"[Add a nested comment explaining why this function is empty, or complete the implementation.(Õå¨±8º·Ï•Ù.
+upython:S3776ƒ-"URefactor this function to reduce its Cognitive Complexity from 218 to the 15 allowed.(ÀéÅ¢8º·Ï•Ù.
+\python:S5754”g"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Lpython:S1481ÿ9",Remove the unused local variable "platform".(ß„Æ®8º·Ï•Ù.
+[python:S1481£‰"5Remove the unused local variable "MethodWrapperType".(å‹›µüÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603"(Remove this unused function declaration.(Óşƒ8º·Ï•Ù.
+Tpython:S1481€"/Remove the unused local variable "SCHED_OTHER".(Ÿ²ŠÖÿÿÿÿÿ8º·Ï•Ù.
+tpython:S117ñ-"PRename this parameter "Link" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã™øµÿÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806õ"+Rename this variable; it shadows a builtin.(™°¼²ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603“:"(Remove this unused function declaration.(èè®üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481ô="-Remove the unused local variable "meta_path".(şÌ®“ÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603æ"(Remove this unused function declaration.(õÅ“¥8º·Ï•Ù.
+qpython:S117‚("MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603â<"(Remove this unused function declaration.(êê¡­ÿÿÿÿÿ8º·Ï•Ù.
+Epython:S5603¨""%Remove this unused class declaration.(£â¸Ÿ8º·Ï•Ù.
+Hpython:S5603˜"(Remove this unused function declaration.(‡ïĞ‹8º·Ï•Ù.
+mpython:S1192üm"HDefine a constant instead of duplicating this literal "Hi i am" 3 times.(±ÑÓøÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ä;"(Remove this unused function declaration.(ä”è¯8º·Ï•Ù.
+Spython:S1481t"4Remove the unused local variable "base_exec_prefix".(Ä¢»8º·Ï•Ù.
+bpython:S112†L">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481Œ"-Remove the unused local variable "ST_NOSUID".(Á²şÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481²"-Remove the unused local variable "EX_CONFIG".(Šë¿‹8º·Ï•Ù.
+Hpython:S5603ã"(Remove this unused function declaration.(×ÍüÅ8º·Ï•Ù.
+Tpython:S1481ø9"4Remove the unused local variable "float_repr_style".( Œ•8º·Ï•Ù.
+bpython:S112ŠX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112 Z">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ŸS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+]python:S1481¿="8Remove the unused local variable "builtin_module_names".(ô…÷ƒÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112™Z">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+\python:S930ÎE"8Remove this unexpected named argument 'follow_symlinks'.(ø¹µÖúÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¦"(Remove this unused function declaration.(ãáèé8º·Ï•Ù.
+kpython:S2208	"GImport only needed names or import the module and then use its members.(–ùÏÒÿÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481Ñ"+Remove the unused local variable "O_DSYNC".(Æ»ÿêÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Î"(Remove this unused function declaration.(õ¬Ëşÿÿÿÿ8º·Ï•Ù.
+Spython:S930ûE"/Remove this unexpected named argument 'dir_fd'.(Ó²ïÄùÿÿÿÿ8º·Ï•Ù.
+Jpython:S1481ˆ")Remove the unused local variable "AWAIT".(şšÉæ8º·Ï•Ù.
+bpython:S112ÒL">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÆQ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+\python:S5754ëZ"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Špython:S117´‰"eRename this local variable "MemberDescriptorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿áØÎùÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481ê9"4Remove the unused local variable "base_exec_prefix".(Ä¢»8º·Ï•Ù.
+Mpython:S1481†"-Remove the unused local variable "ST_APPEND".(Œ­”8º·Ï•Ù.
+Hpython:S5603ø"(Remove this unused function declaration.(‚ÅÉô8º·Ï•Ù.
+bpython:S112ÏW">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÍZ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Gpython:S1481¦"(Remove the unused local variable "X_OK".(Ã’Ù{8º·Ï•Ù.
+Mpython:S5603¶?"(Remove this unused function declaration.(¹ûöËùÿÿÿÿ8º·Ï•Ù.
+bpython:S112®U">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+gpython:S2208´B"GImport only needed names or import the module and then use its members.(Ìª¶‚8º·Ï•Ù.
+bpython:S112¿N">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481"-Remove the unused local variable "WUNTRACED".(¹’€úÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481Õ"-Remove the unused local variable "O_NOATIME".(¶ÈÒ8º·Ï•Ù.
+Hpython:S5603Ø"(Remove this unused function declaration.(¨ÙÓ8º·Ï•Ù.
+Mpython:S5603 "(Remove this unused function declaration.(†éØ¡şÿÿÿÿ8º·Ï•Ù.
+Ipython:S1481ñ")Remove the unused local variable "P_PID".(°ŒßØ8º·Ï•Ù.
+Mpython:S5603Û"(Remove this unused function declaration.(çÜ­ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603À"(Remove this unused function declaration.(äîŒ¹úÿÿÿÿ8º·Ï•Ù.
+bpython:S112´S">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112òV">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603†;"(Remove this unused function declaration.(®‹¿ıÿÿÿÿ8º·Ï•Ù.
+bpython:S112T">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+opython:S1192¦"JDefine a constant instead of duplicating this literal "Rate: 5Rs" 3 times.(Õ½×­úÿÿÿÿ8º·Ï•Ù.
+upython:S1192äX"UDefine a constant instead of duplicating this literal "True you are a adult" 3 times.(ï–ª’8º·Ï•Ù.
+[python:S1481|"7Remove the unused local variable "dont_write_bytecode".(ÎãÂ’ıÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481~".Remove the unused local variable "executable".(‹İ‘ä8º·Ï•Ù.
+bpython:S112ÅX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481‡"/Remove the unused local variable "ST_MANDLOCK".(§°Şøÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÌK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ƒX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Npython:S1481‹>".Remove the unused local variable "path_hooks".(Ûã 8º·Ï•Ù.
+bpython:S112…Q">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481â"5Remove the unused local variable "POSIX_FADV_NORMAL".(¤¨§y8º·Ï•Ù.
+Epython:S5603±8"%Remove this unused class declaration.(ú„°œ8º·Ï•Ù.
+Upython:S1481ç"5Remove the unused local variable "POSIX_SPAWN_CLOSE".(£¯ßŒ8º·Ï•Ù.
+Qpython:S1481Ù",Remove the unused local variable "O_RDONLY".(±Èùªÿÿÿÿÿ8º·Ï•Ù.
+qpython:S117§k"MRename this parameter "E" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÔßÒúÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¾"(Remove this unused function declaration.(˜²ë8º·Ï•Ù.
+bpython:S112èT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÚK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ğ@"(Remove this unused function declaration.(Ş›îìùÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481œˆ"&Remove the unused local variable "OP".(¥Úü“üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ï"(Remove this unused function declaration.(©ÃÚ8º·Ï•Ù.
+Mpython:S5603œ"(Remove this unused function declaration.(¿Ê…úüÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481î9"-Remove the unused local variable "byteorder".(Ÿ‡îß8º·Ï•Ù.
+Mpython:S5603ç"(Remove this unused function declaration.(Ã¥½ôùÿÿÿÿ8º·Ï•Ù.
+bpython:S112úS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ú<"(Remove this unused function declaration.(ôà¡ˆúÿÿÿÿ8º·Ï•Ù.
+bpython:S112îR">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Špython:S117¥‰"jRename this local variable "ClassMethodDescriptorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(™®öÕ8º·Ï•Ù.
+Ipython:S5603¹‰"(Remove this unused function declaration.(©Éï8º·Ï•Ù.
+Gpython:S5603¦"(Remove this unused function declaration.(Ü¹©}8º·Ï•Ù.
+Mpython:S5603Š"(Remove this unused function declaration.(÷€¥òùÿÿÿÿ8º·Ï•Ù.
+Kpython:S5806É"+Rename this variable; it shadows a builtin.(“Â‡ú8º·Ï•Ù.
+^python:S5720µ">Rename "module" to "self" or add the missing "self" parameter.(ä“½û8º·Ï•Ù.
+Jpython:S1481Ü"*Remove the unused local variable "O_SYNC".(ˆ©üı8º·Ï•Ù.
+Hpython:S5603¯<"(Remove this unused function declaration.(âÚÂñ8º·Ï•Ù.
+Mpython:S5603ù"(Remove this unused function declaration.(µÆ²…şÿÿÿÿ8º·Ï•Ù.
+Spython:S1481v"/Remove the unused local variable "base_prefix".(•´¶Ôıÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481ê>",Remove the unused local variable "daylight".(Š€Ä–8º·Ï•Ù.
+lpython:S1763§l"GDelete this unreachable code or refactor the code to make it reachable.(ÎŠıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¸"(Remove this unused function declaration.(Êõâ†8º·Ï•Ù.
+Mpython:S1481¸"-Remove the unused local variable "EX_NOUSER".(Ó³Ã®8º·Ï•Ù.
+Rpython:S1481ü"2Remove the unused local variable "format_version".(°‰8º·Ï•Ù.
+Opython:S1481ô"/Remove the unused local variable "RTLD_GLOBAL".(áŠÃÁ8º·Ï•Ù.
+…python:S117¤‰"eRename this local variable "MethodDescriptorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑúÓ¿8º·Ï•Ù.
+Mpython:S5603¨"(Remove this unused function declaration.(âæ¶Çøÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ø"(Remove this unused function declaration.(í¿á‰şÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481°"/Remove the unused local variable "warnoptions".(±áñ˜ıÿÿÿÿ8º·Ï•Ù.
+tpython:S1542‹"ORename function "WCOREDUMP" to match the regular expression ^[a-z_][a-z0-9_]*$.(èì…üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¶"(Remove this unused function declaration.(¤“Ø–şÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481º>"1Remove the unused local variable "exc_traceback".(Î°ˆ®ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112ßU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+python:S117®‰"ZRename this local variable "FrameType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë ›üÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481û"(Remove the unused local variable "R_OK".(”³Éúÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603 "(Remove this unused function declaration.(Áî‘á8º·Ï•Ù.
+spython:S1542¹"NRename function "WTERMSIG" to match the regular expression ^[a-z_][a-z0-9_]*$.(åüŠôùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603­"(Remove this unused function declaration.(ä´ıÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481´",Remove the unused local variable "EX_IOERR".(ßó²£8º·Ï•Ù.
+Ipython:S1481¹")Remove the unused local variable "EX_OK".(¼®˜”8º·Ï•Ù.
+Hpython:S5603…"(Remove this unused function declaration.(êªõ8º·Ï•Ù.
+Rpython:S1481‹"-Remove the unused local variable "ST_NOEXEC".(×ÄÒÿÿÿÿÿ8º·Ï•Ù.
+Npython:S1481ú9".Remove the unused local variable "hexversion".(æÖ—¯8º·Ï•Ù.
+Hpython:S5603Á"(Remove this unused function declaration.(ç¤˜§8º·Ï•Ù.
+Mpython:S5603—"(Remove this unused function declaration.(¢ÊÙ»üÿÿÿÿ8º·Ï•Ù.
+~python:S117­‰"^Rename this local variable "TracebackType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¬×©8º·Ï•Ù.
+tpython:S3776ƒp"TRefactor this function to reduce its Cognitive Complexity from 90 to the 15 allowed.(´ı£í8º·Ï•Ù.
+Qpython:S1481‰",Remove the unused local variable "ST_NODEV".(Ûêà³ûÿÿÿÿ8º·Ï•Ù.
+bpython:S112˜M">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Spython:S1481ÿ".Remove the unused local variable "SCHED_IDLE".(íÆ¡™şÿÿÿÿ8º·Ï•Ù.
+Npython:S1481‡".Remove the unused local variable "maxunicode".(‹§Ëœ8º·Ï•Ù.
+bpython:S112íP">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ä"(Remove this unused function declaration.(ôà¡ˆúÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603È"(Remove this unused function declaration.(¡«¢ùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÏY">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+jpython:S100òl"KRename method "isChild" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºäü8º·Ï•Ù.
+Mpython:S5603™"(Remove this unused function declaration.(°öËşüÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481ş"-Remove the unused local variable "meta_path".(şÌ®“ÿÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481¢"1Remove the unused local variable "XATTR_REPLACE".(ÀİÊ†şÿÿÿÿ8º·Ï•Ù.
+zpython:S1186›‰"YAdd a nested comment explaining why this method is empty, or complete the implementation.(´öØå8º·Ï•Ù.
+mpython:S1192ÑP"HDefine a constant instead of duplicating this literal "result(" 3 times.(¦Áƒûÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603µ"(Remove this unused function declaration.(¾›Ò¸úÿÿÿÿ8º·Ï•Ù.
+bpython:S112˜X">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+…python:S117üˆ"`Rename this local variable "SimpleNamespace" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ıÊıÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481­‰"1Remove the unused local variable "TracebackType".(ë¬×©8º·Ï•Ù.
+Spython:S1481²>".Remove the unused local variable "__stderr__".(ÅŒ€ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112µU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481¸"-Remove the unused local variable "_xoptions".(¢¦ë«8º·Ï•Ù.
+Hpython:S5603€"(Remove this unused function declaration.( —şÖ8º·Ï•Ù.
+Hpython:S5603<"(Remove this unused function declaration.(§¸Á8º·Ï•Ù.
+Mpython:S5603µ"(Remove this unused function declaration.(Ì¸« ûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ø"(Remove this unused function declaration.(Ï‚ã·8º·Ï•Ù.
+…python:S1871Ù]"eEither merge this branch with the identical one on line "11991" or change one of the implementations.(Ä”Şô8º·Ï•Ù.
+dpython:S5655ÖE"?Change this argument; Function "close" expects a different type(™ÃöÈúÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481½="(Remove the unused local variable "argv".(§Š¾úùÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481ë"-Remove the unused local variable "PRIO_PGRP".(ÇØµ§8º·Ï•Ù.
+Hpython:S5603§"(Remove this unused function declaration.(§¸Á8º·Ï•Ù.
+Jpython:S5603Š "%Remove this unused class declaration.(±”ÖŒøÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481¶%"+Remove the unused local variable "__all__".(´ÇÍ³8º·Ï•Ù.
+Ppython:S5806 "+Rename this variable; it shadows a builtin.(Ç³‚’ûÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481†"+Remove the unused local variable "maxsize".(„Â8º·Ï•Ù.
+Mpython:S1481á="-Remove the unused local variable "hash_info".(ï†Ğ8º·Ï•Ù.
+Hpython:S5603‰@"(Remove this unused function declaration.(ß—í¸8º·Ï•Ù.
+Kpython:S1481˜"+Remove the unused local variable "WNOHANG".(®·8º·Ï•Ù.
+Ppython:S1481Ã]"+Remove the unused local variable "__all__".(ÿÅ‰–üÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481¦‹"+Remove the unused local variable "__all__".(Ì‘Ì•8º·Ï•Ù.
+Mpython:S5603„?"(Remove this unused function declaration.(¡¾™èûÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481¾"-Remove the unused local variable "__stdin__".(‡ûÑ(8º·Ï•Ù.
+Gpython:S5603Â"(Remove this unused function declaration.(æœú68º·Ï•Ù.
+Jpython:S5603¨ "%Remove this unused class declaration.(®£Íşüÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603î"(Remove this unused function declaration.(ˆâÜÂ8º·Ï•Ù.
+Npython:S1481“".Remove the unused local variable "_framework".(³¡‡Ÿ8º·Ï•Ù.
+Ppython:S1481è‡"*Remove the unused local variable "NUMBER".(…£Úƒşÿÿÿÿ8º·Ï•Ù.
+~python:S117‹‰"^Rename this local variable "GeneratorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÄÿ¼8º·Ï•Ù.
+Spython:S1481î>"4Remove the unused local variable "_STRUCT_TM_ITEMS".(ùÒƒ58º·Ï•Ù.
+cpython:S5655ÒE">Change this argument; Function "stat" expects a different type(æéÙ¸ÿÿÿÿÿ8º·Ï•Ù.
+Ipython:S5806z"+Rename this variable; it shadows a builtin.(ÌÃé}8º·Ï•Ù.
+bpython:S112ÄV">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+upython:S3776Ç"URefactor this function to reduce its Cognitive Complexity from 382 to the 15 allowed.(óÃ8º·Ï•Ù.
+Hpython:S5603¾"(Remove this unused function declaration.(Ôğ¹ê8º·Ï•Ù.
+bpython:S112ÅZ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ü"(Remove this unused function declaration.(£òº8º·Ï•Ù.
+Ppython:S5806è"+Rename this variable; it shadows a builtin.(™°¼²ùÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603•"(Remove this unused function declaration.(áÀë}8º·Ï•Ù.
+Ipython:S1481•")Remove the unused local variable "_home".(™ØŸÅ8º·Ï•Ù.
+\python:S5754•f"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Npython:S5603äˆ"(Remove this unused function declaration.(Ú€œ¢şÿÿÿÿ8º·Ï•Ù.
+bpython:S112ŒQ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Opython:S1481¼"/Remove the unused local variable "EX_PROTOCOL".(õË“¸8º·Ï•Ù.
+Hpython:S5603¸@"(Remove this unused function declaration.(Ùµ°Ô8º·Ï•Ù.
+bpython:S112ÚT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+ppython:S2710ç8"QRename "mcls" to a valid class parameter name or add the missing class parameter.(Ê°¹8º·Ï•Ù.
+‡python:S117£‰"bRename this local variable "MethodWrapperType" to match the regular expression ^[_a-z][a-z0-9_]*$.(å‹›µüÿÿÿÿ8º·Ï•Ù.
+bpython:S5754¢j"BReraise this exception to stop the application as the user expects(¦ÖÍá8º·Ï•Ù.
+Rpython:S1481í"-Remove the unused local variable "PRIO_USER".(ˆ¤œæüÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ì"(Remove this unused function declaration.(”òñá8º·Ï•Ù.
+Mpython:S5603Ü"(Remove this unused function declaration.(ÖÏœŒıÿÿÿÿ8º·Ï•Ù.
+Npython:S1481¾"/Remove the unused local variable "EX_TEMPFAIL".(Şè‘k8º·Ï•Ù.
+Gpython:S5603"(Remove this unused function declaration.(ª†Æ@8º·Ï•Ù.
+bpython:S112ÅK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+}python:S1192ñX"]Define a constant instead of duplicating this literal "False you are not a teenager" 3 times.(÷ğÕ™8º·Ï•Ù.
+Wpython:S1481š"7Remove the unused local variable "path_importer_cache".(®îåº8º·Ï•Ù.
+Mpython:S5603¬"(Remove this unused function declaration.(²èÂ³ıÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481 ˆ"0Remove the unused local variable "TYPE_COMMENT".(ŸÖŸÁ8º·Ï•Ù.
+‹python:S117¢‰"fRename this local variable "WrapperDescriptorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ƒ‡úÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603à?"(Remove this unused function declaration.(èıª¸8º·Ï•Ù.
+bpython:S112ÜO">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+upython:S3776ê\"URefactor this function to reduce its Cognitive Complexity from 374 to the 15 allowed.( æÙÍ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(¶ùùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ğ"(Remove this unused function declaration.(Ó‚Ğ¨8º·Ï•Ù.
+Hpython:S5603¹"(Remove this unused function declaration.(âÚÂñ8º·Ï•Ù.
+bpython:S112ùN">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+ˆpython:S117˜‰"cRename this local variable "AsyncGeneratorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÔ»Çúÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ì"(Remove this unused function declaration.(êê¡­ÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ë"(Remove this unused function declaration.(«¢Ä®8º·Ï•Ù.
+bpython:S112­S">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+†python:S117ûˆ"aRename this local variable "MappingProxyType" to match the regular expression ^[_a-z][a-z0-9_]*$.(±µˆûûÿÿÿÿ8º·Ï•Ù.
+Wpython:S1481¤"2Remove the unused local variable "XATTR_SIZE_MAX".(‰Ï¡÷ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÄL">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603"(Remove this unused function declaration.(Ş™ø¿8º·Ï•Ù.
+^python:S1481ä"9Remove the unused local variable "POSIX_FADV_SEQUENTIAL".(óŠ–ÿıÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ğ"(Remove this unused function declaration.(½øÉøÿÿÿÿ8º·Ï•Ù.
+qpython:S117š&"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Vpython:S1481â>"7Remove the unused local variable "CLOCK_MONOTONIC_RAW".(áâš|8º·Ï•Ù.
+Mpython:S5603ï"(Remove this unused function declaration.(íé¿¹úÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481"+Remove the unused local variable "version".( òÕ°ıÿÿÿÿ8º·Ï•Ù.
+Opython:S1481Ú"*Remove the unused local variable "O_RDWR".(»ì€²ûÿÿÿÿ8º·Ï•Ù.
+\python:S5754f"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Hpython:S5603š;"(Remove this unused function declaration.(Û„´¿8º·Ï•Ù.
+qpython:S117Œ&"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+\python:S1481ò9"7Remove the unused local variable "dont_write_bytecode".(ÎãÂ’ıÿÿÿÿ8º·Ï•Ù.
+vpython:S2710ä*"QRename "self" to a valid class parameter name or add the missing class parameter.(Ù÷»¼ûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603÷"(Remove this unused function declaration.(ñ«ë 8º·Ï•Ù.
+bpython:S112K">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112·Y">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+~python:S117úˆ"YRename this local variable "CodeType" to match the regular expression ^[_a-z][a-z0-9_]*$.(óî€ùÿÿÿÿ8º·Ï•Ù.
+Upython:S1481¡"0Remove the unused local variable "XATTR_CREATE".(˜•ßãüÿÿÿÿ8º·Ï•Ù.
+tpython:S1192y"ODefine a constant instead of duplicating this literal "downloading.." 23 times.(àñÆÎşÿÿÿÿ8º·Ï•Ù.
+lpython:S117÷%"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËÕ˜µ8º·Ï•Ù.
+Mpython:S5603Î:"(Remove this unused function declaration.(í¿á‰şÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481‚"4Remove the unused local variable "float_repr_style".( Œ•8º·Ï•Ù.
+Ipython:S5603óŠ"(Remove this unused function declaration.(˜€˜Í8º·Ï•Ù.
+Opython:S1481ğ"*Remove the unused local variable "P_PGID".(§øÙ‹úÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603;"(Remove this unused function declaration.(ßëñ8º·Ï•Ù.
+Hpython:S5603±"(Remove this unused function declaration.(¦üÉ‹8º·Ï•Ù.
+Hpython:S5603Ô"(Remove this unused function declaration.(ĞâÛİ8º·Ï•Ù.
+–python:S1192ÎU"vDefine a constant instead of duplicating this literal "|                                                   |" 5 times.(Í²íÁ8º·Ï•Ù.
+Mpython:S5603‹"(Remove this unused function declaration.(˜”÷Ìùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ùV">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603è"(Remove this unused function declaration.(†Èÿ¶şÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481Ì"+Remove the unused local variable "O_ASYNC".(Æ´À 8º·Ï•Ù.
+Tpython:S1481€"/Remove the unused local variable "exec_prefix".(ÀöÌ¡şÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481‰",Remove the unused local variable "platform".(ß„Æ®8º·Ï•Ù.
+Hpython:S5603¿"(Remove this unused function declaration.(Ïå„Ù8º·Ï•Ù.
+Tpython:S1481ı"/Remove the unused local variable "SCHED_BATCH".(¶İÀèøÿÿÿÿ8º·Ï•Ù.
+Xpython:S1481Ÿ‰"7Remove the unused local variable "BuiltinFunctionType".(Øœ¥¡8º·Ï•Ù.
+Ppython:S1481…:"+Remove the unused local variable "version".( òÕ°ıÿÿÿÿ8º·Ï•Ù.
+tpython:S3776Äu"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¬©¤†8º·Ï•Ù.
+Npython:S1481®".Remove the unused local variable "CLD_EXITED".(ÙÔØª8º·Ï•Ù.
+Mpython:S5603¤"(Remove this unused function declaration.(ƒêå‘şÿÿÿÿ8º·Ï•Ù.
+\python:S5754îf"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Npython:S1481‰:".Remove the unused local variable "_framework".(³¡‡Ÿ8º·Ï•Ù.
+Hpython:S5603²l"(Remove this unused function declaration.(ãııÂ8º·Ï•Ù.
+Hpython:S5603š"(Remove this unused function declaration.(ßëñ8º·Ï•Ù.
+^python:S5720¶#">Rename "module" to "self" or add the missing "self" parameter.(ä“½û8º·Ï•Ù.
+Mpython:S5603Ï"(Remove this unused function declaration.(Œë–÷úÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Î"(Remove this unused function declaration.(ä”è¯8º·Ï•Ù.
+Hpython:S5603­"(Remove this unused function declaration.(ıé«û8º·Ï•Ù.
+Ppython:S5806—"+Rename this variable; it shadows a builtin.(Å·é•ıÿÿÿÿ8º·Ï•Ù.
+bpython:S112áT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481°>",Remove the unused local variable "__spec__".(ı•óÿ8º·Ï•Ù.
+Mpython:S5603¬-"(Remove this unused function declaration.(¼ªüüÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÀP">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603°"(Remove this unused function declaration.(¤ò”Èÿÿÿÿÿ8º·Ï•Ù.
+Kpython:S5806äe"+Rename this variable; it shadows a builtin.(ÊÔÊá8º·Ï•Ù.
+bpython:S112ˆT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Kpython:S5806·"+Rename this variable; it shadows a builtin.(“Â‡ú8º·Ï•Ù.
+‚python:S117øˆ"]Rename this local variable "FunctionType" to match the regular expression ^[_a-z][a-z0-9_]*$.(—à‚úÿÿÿÿ8º·Ï•Ù.
+Npython:S1481Ë")Remove the unused local variable "flags".(ßÃñ¹üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÓX">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+npython:S100æl"QRename method "getPopulation" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾‡8º·Ï•Ù.
+…python:S1192Ü"eDefine a constant instead of duplicating this literal "pickle exhausted before end of frame" 3 times.(®ÍÍ8º·Ï•Ù.
+Mpython:S5603§"(Remove this unused function declaration.(£±·¯øÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603 "(Remove this unused function declaration.(ç«Ó8º·Ï•Ù.
+ppython:S1192Ûc"KDefine a constant instead of duplicating this literal 'Deleted %s' 3 times.(Ğõ“‡ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603±"(Remove this unused function declaration.(Ò÷×óúÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603”?"(Remove this unused function declaration.(£š™×ıÿÿÿÿ8º·Ï•Ù.
+Upython:S1481¯ˆ"5Remove the unused local variable "EXACT_TOKEN_TYPES".(Òê¬8º·Ï•Ù.
+bpython:S112úT">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Õ"(Remove this unused function declaration.(òÛ£è8º·Ï•Ù.
+Hpython:S5603œ"(Remove this unused function declaration.(ì®™ú8º·Ï•Ù.
+Ppython:S5806®"+Rename this variable; it shadows a builtin.(Ç³‚’ûÿÿÿÿ8º·Ï•Ù.
+Hpython:S1481ê"(Remove the unused local variable "memo".(”ƒ»À8º·Ï•Ù.
+spython:S1192Ÿy"NDefine a constant instead of duplicating this literal "install(Y/N)" 23 times.(ØùéÊûÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603¸"(Remove this unused function declaration.(ú¡Æàÿÿÿÿÿ8º·Ï•Ù.
+Jpython:S5806ğ9"+Rename this variable; it shadows a builtin.(ÌÃé}8º·Ï•Ù.
+npython:S1542œ"ORename function "WIFEXITED" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù­É\8º·Ï•Ù.
+Hpython:S5603”"(Remove this unused function declaration.(úÖŒ8º·Ï•Ù.
+Gpython:S5603À<"(Remove this unused function declaration.(ìêæt8º·Ï•Ù.
+bpython:S112¹[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481§%",Remove the unused local variable "__spec__".(Çƒ•¢ûÿÿÿÿ8º·Ï•Ù.
+bpython:S112±[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+qpython:S117§k"MRename this parameter "F" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÔßÒúÿÿÿÿ8º·Ï•Ù.
+Ypython:S1481¤‰"8Remove the unused local variable "MethodDescriptorType".(ÑúÓ¿8º·Ï•Ù.
+Hpython:S5603³"(Remove this unused function declaration.(ñ¤–º8º·Ï•Ù.
+bpython:S112ÜM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Jpython:S56039"%Remove this unused class declaration.(‚ÕÀøÿÿÿÿ8º·Ï•Ù.
+Wpython:S1481"2Remove the unused local variable "ST_SYNCHRONOUS".(“®Âéùÿÿÿÿ8º·Ï•Ù.
+Gpython:S1481Ã"(Remove the unused local variable "F_OK".(Ø©Éh8º·Ï•Ù.
+Mpython:S1481®>"-Remove the unused local variable "_xoptions".(¢¦ë«8º·Ï•Ù.
+Mpython:S5603€"(Remove this unused function declaration.( Õöıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Úi"(Remove this unused function declaration.(¢¨Ş£8º·Ï•Ù.
+Hpython:S5603ô;"(Remove this unused function declaration.(ª®‚…8º·Ï•Ù.
+Hpython:S5603İ"(Remove this unused function declaration.(ŞÀÛ˜8º·Ï•Ù.
+bpython:S112ƒS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ø"(Remove this unused function declaration.(Ÿúì÷ıÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806Ù_"+Rename this variable; it shadows a builtin.(æ„³Ãøÿÿÿÿ8º·Ï•Ù.
+qpython:S117«("MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+bpython:S112šQ">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481¿"2Remove the unused local variable "EX_UNAVAILABLE".(•À§û8º·Ï•Ù.
+Npython:S1481À".Remove the unused local variable "__stdout__".(ÑôÑí8º·Ï•Ù.
+Jpython:S1481:"*Remove the unused local variable "prefix".(€»•ï8º·Ï•Ù.
+Hpython:S5603½"(Remove this unused function declaration.(ÛßŸË8º·Ï•Ù.
+Mpython:S5603’<"(Remove this unused function declaration.(¿Ê…úüÿÿÿÿ8º·Ï•Ù.
+bpython:S112ŠM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÆN">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Upython:S1481Ÿˆ"/Remove the unused local variable "TYPE_IGNORE".(û—ö­øÿÿÿÿ8º·Ï•Ù.
+bpython:S112½Z">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481Í"-Remove the unused local variable "O_CLOEXEC".(²¤Áèıÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481ì"0Remove the unused local variable "PRIO_PROCESS".(½í®Û8º·Ï•Ù.
+Gpython:S5603‘"(Remove this unused function declaration.(ğ¦ê78º·Ï•Ù.
+bpython:S112¿Y">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+\python:S5754™T"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+€python:S1192œy"[Define a constant instead of duplicating this literal "click enter to continue.." 23 times.(›–¹ûÿÿÿÿ8º·Ï•Ù.
+qpython:S1542šl"QRename function "pycharm_IDE" to match the regular expression ^[a-z_][a-z0-9_]*$.(§Á×Ù8º·Ï•Ù.
+bpython:S112¿Q">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÿK">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481¢ˆ".Remove the unused local variable "ERRORTOKEN".(¿Áô«ÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ˆ"(Remove this unused function declaration.(¡Ğ–8º·Ï•Ù.
+bpython:S112êM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¶"(Remove this unused function declaration.(“°¼ü8º·Ï•Ù.
+Mpython:S5603³i"(Remove this unused function declaration.(ĞÁö³úÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481Ğ"/Remove the unused local variable "O_DIRECTORY".(ƒ§Ò³şÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481Ö",Remove the unused local variable "O_NOCTTY".(õ±Ø®8º·Ï•Ù.
+Wpython:S1481è#"2Remove the unused local variable "pathconf_names".(¶µ±‡şÿÿÿÿ8º·Ï•Ù.
+Wpython:S1481‚"7Remove the unused local variable "SCHED_RESET_ON_FORK".(€õ…Ø8º·Ï•Ù.
+Mpython:S5603å"(Remove this unused function declaration.(ÛĞëüÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806Ú_"+Rename this variable; it shadows a builtin.(½ª®Úÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ò>"(Remove this unused function declaration.(ã«È×8º·Ï•Ù.
+Wpython:S1481"2Remove the unused local variable "pycache_prefix".(¢¯ã–ùÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481÷"1Remove the unused local variable "RTLD_NODELETE".(á×Ë8º·Ï•Ù.
+dpython:S5655‹F"?Change this argument; Function "close" expects a different type(êÍ–¼úÿÿÿÿ8º·Ï•Ù.
+upython:S3776Íƒ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ñùŒ÷8º·Ï•Ù.
+bpython:S112ËV">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Jpython:S1481‹"*Remove the unused local variable "prefix".(€»•ï8º·Ï•Ù.
+‡python:S117 ‰"bRename this local variable "BuiltinMethodType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Ìï»ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603›:"(Remove this unused function declaration.(şóŸşşÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481¯"/Remove the unused local variable "CLD_TRAPPED".(¾ëÒ»ıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ó;"(Remove this unused function declaration.(ŞÀÛ˜8º·Ï•Ù.
+Hpython:S5603½i"(Remove this unused function declaration.(™‰ Ë8º·Ï•Ù.
+bpython:S112ËL">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ş@"(Remove this unused function declaration.(äğ²Èúÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ğ"(Remove this unused function declaration.(—±Öş8º·Ï•Ù.
+bpython:S112ØP">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ş"(Remove this unused function declaration.(ÕåÁÅùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603‹"(Remove this unused function declaration.(²²øµ8º·Ï•Ù.
+lpython:S2208ÈB"GImport only needed names or import the module and then use its members.(ø³¯Üúÿÿÿÿ8º·Ï•Ù.
+\python:S5754ùa"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Hpython:S5603Ö<"(Remove this unused function declaration.(èëş’8º·Ï•Ù.
+qpython:S117¹("MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481í="2Remove the unused local variable "implementation".(¦‚”„8º·Ï•Ù.
+Mpython:S5603Ô"(Remove this unused function declaration.(…’Ùµúÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603æ:"(Remove this unused function declaration.(¢ÏÓ‡üÿÿÿÿ8º·Ï•Ù.
+bpython:S112æP">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÇY">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Œ"(Remove this unused function declaration.(¥ÂŞÙ8º·Ï•Ù.
+Upython:S1481¨"0Remove the unused local variable "version_info".(İé÷Ğøÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ã"(Remove this unused function declaration.(‹Ö‹Á8º·Ï•Ù.
+spython:S1542µ"NRename function "WSTOPSIG" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì¸« ûÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603º;"(Remove this unused function declaration.(Èœ²Ä8º·Ï•Ù.
+^python:S930—F"@Add 1 missing arguments; 'execv' expects 3 positional arguments.(Şî‹>8º·Ï•Ù.
+Upython:S1481á"6Remove the unused local variable "POSIX_FADV_NOREUSE".(»ŸÀO8º·Ï•Ù.
+Upython:S1066éƒ"/Merge this if statement with the enclosing one.(õ³±Šüÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481Ó"/Remove the unused local variable "O_LARGEFILE".(ê‚àÂûÿÿÿÿ8º·Ï•Ù.
+Npython:S1481¶".Remove the unused local variable "EX_NOINPUT".(ø ÿÉ8º·Ï•Ù.
+bpython:S112ÑS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ßS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Cpython:S125İi"Remove this commented out code.(ç¶®äûÿÿÿÿ8º·Ï•Ù.
+\python:S5754„b"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+bpython:S112”[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ˆ"(Remove this unused function declaration.(°ù¢ˆ8º·Ï•Ù.
+wpython:S117Ì^"XRename this local variable "rcLines" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÈ…†8º·Ï•Ù.
+bpython:S112ÎO">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+spython:S3776ÈH"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Üüû
+8º·Ï•Ù.
+Ypython:S1481üˆ"3Remove the unused local variable "SimpleNamespace".(¯ıÊıÿÿÿÿ8º·Ï•Ù.
+Rpython:S1481÷"2Remove the unused local variable "implementation".(¦‚”„8º·Ï•Ù.
+bpython:S112¦S">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112Œ[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+python:S101ñJ"pRename class "Find_The_Size_IN_Bytes" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(úï©8º·Ï•Ù.
+Hpython:S5603ô"(Remove this unused function declaration.(¼Â£¡8º·Ï•Ù.
+Mpython:S5603Í?"(Remove this unused function declaration.(“•Ş¢ÿÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481’"+Remove the unused local variable "TMP_MAX".(ùèìè8º·Ï•Ù.
+Mpython:S5603•"(Remove this unused function declaration.(›•æÅøÿÿÿÿ8º·Ï•Ù.
+}python:S101…m"^Rename class "sLib" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ë´“¦8º·Ï•Ù.
+lpython:S930¹l"HRemove 1 unexpected arguments; 'storage' expects 0 positional arguments.(ïˆ´ıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ºi"(Remove this unused function declaration.(¢›Š8º·Ï•Ù.
+_python:S5706«†"9Remove this "raise" statement and return "False" instead.(“¿ß¼ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603„"(Remove this unused function declaration.(Ö¾­ ÿÿÿÿÿ8º·Ï•Ù.
+upython:S117õ_"WRename this local variable "tmpArg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÕ|8º·Ï•Ù.
+Hpython:S56038"(Remove this unused function declaration.(‚Åõ™8º·Ï•Ù.
+[python:S1481 ‰"5Remove the unused local variable "BuiltinMethodType".(¸Ìï»ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Æ:"(Remove this unused function declaration.(½øÉøÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603·<"(Remove this unused function declaration.(ç¤˜§8º·Ï•Ù.
+]python:S112y">Replace this generic exception class with a more specific one.(€«Èã8º·Ï•Ù.
+Npython:S5603çˆ"(Remove this unused function declaration.(äüşµşÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481Ş",Remove the unused local variable "O_WRONLY".(âïù8º·Ï•Ù.
+^python:S5720«=">Rename "module" to "self" or add the missing "self" parameter.(ä“½û8º·Ï•Ù.
+Ppython:S5806»e"+Rename this variable; it shadows a builtin.(½ª®Úÿÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Æ"(Remove this unused function declaration.(ô•÷8º·Ï•Ù.
+Tpython:S1481ì9"/Remove the unused local variable "base_prefix".(•´¶Ôıÿÿÿÿ8º·Ï•Ù.
+bpython:S112å[">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+opython:S100êl"KRename method "isAdult" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬û†¼øÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(èè®üÿÿÿÿ8º·Ï•Ù.
+„python:S117Ÿ‰"dRename this local variable "BuiltinFunctionType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øœ¥¡8º·Ï•Ù.
+Hpython:S5603ü"(Remove this unused function declaration.(º¨”¡8º·Ï•Ù.
+bpython:S112½T">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(áìÔüÿÿÿÿ8º·Ï•Ù.
+‡python:S1192›l"bDefine a constant instead of duplicating this literal "~/pycharm-2020.1.2/bin/pycharm.sh" 3 times.(ƒÎÂÄúÿÿÿÿ8º·Ï•Ù.
+Ipython:S1481”>")Remove the unused local variable "stdin".(Á¸˜¯8º·Ï•Ù.
+npython:S100‚\"JRename method "Helper" to match the regular expression ^[a-z_][a-z0-9_]*$.(­»îêüÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603­"(Remove this unused function declaration.(¢º¼8º·Ï•Ù.
+Npython:S1481è9"/Remove the unused local variable "api_version".(Ğ¥?8º·Ï•Ù.
+Spython:S1481İ".Remove the unused local variable "float_info".(¶°Ê÷şÿÿÿÿ8º·Ï•Ù.
+Npython:S1481•".Remove the unused local variable "path_hooks".(Ûã 8º·Ï•Ù.
+bpython:S112¼U">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+€python:S117¯"\Rename this local variable "PyStringMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ğÕ¨øÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603š@"(Remove this unused function declaration.(Şˆßõÿÿÿÿÿ8º·Ï•Ù.
+Jpython:S5603ä3"%Remove this unused class declaration.(—²±ùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ø@"(Remove this unused function declaration.(ï÷–ñùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ßP">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S1481»"-Remove the unused local variable "EX_OSFILE".(ÓîÚ¥8º·Ï•Ù.
+Gpython:S5603œ"(Remove this unused function declaration.(ù­É\8º·Ï•Ù.
+bpython:S112V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Jpython:S5603É8"%Remove this unused class declaration.(…Ìå•üÿÿÿÿ8º·Ï•Ù.
+npython:S1192üm"IDefine a constant instead of duplicating this literal "and i am" 5 times.(±ÑÓøÿÿÿÿ8º·Ï•Ù.
+qpython:S1542çˆ"KRename function "ISEOF" to match the regular expression ^[a-z_][a-z0-9_]*$.(äüşµşÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481æ#"+Remove the unused local variable "environ".(ÌÙîÓüÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÊS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481İ"+Remove the unused local variable "O_TRUNC".(æ§Ñûÿÿÿÿ8º·Ï•Ù.
+Opython:S1066½"/Merge this if statement with the enclosing one.(Š«çü8º·Ï•Ù.
+Hpython:S5603Ğ"(Remove this unused function declaration.(Óï­–8º·Ï•Ù.
+\python:S1481˜‰"6Remove the unused local variable "AsyncGeneratorType".(ŒÔ»Çúÿÿÿÿ8º·Ï•Ù.
+bpython:S112¥K">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481Ë",Remove the unused local variable "O_APPEND".(·Çü‡ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603<"(Remove this unused function declaration.(˜”÷Ìùÿÿÿÿ8º·Ï•Ù.
+bpython:S112V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603»"(Remove this unused function declaration.(¼Ï›Ğ8º·Ï•Ù.
+spython:S117Ât"ORename this parameter "Key" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÓ‹Éøÿÿÿÿ8º·Ï•Ù.
+bpython:S112‡O">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481ø"/Remove the unused local variable "RTLD_NOLOAD".(ıÇ©¡øÿÿÿÿ8º·Ï•Ù.
+Spython:S1481ş".Remove the unused local variable "SCHED_FIFO".(ï¦Úêşÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603€"(Remove this unused function declaration.(¦—Á°8º·Ï•Ù.
+Mpython:S5603×:"(Remove this unused function declaration.(·éúışÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ê"(Remove this unused function declaration.(Û”İ8º·Ï•Ù.
+Npython:S1481ı9".Remove the unused local variable "maxunicode".(‹§Ëœ8º·Ï•Ù.
+Hpython:S5603Ê"(Remove this unused function declaration.(‹ÿ³î8º·Ï•Ù.
+Hpython:S5603¦"(Remove this unused function declaration.(¾©èï8º·Ï•Ù.
+Hpython:S5603©"(Remove this unused function declaration.(ÖßôŞ8º·Ï•Ù.
+Mpython:S5603ğ"(Remove this unused function declaration.(¢ÏÓ‡üÿÿÿÿ8º·Ï•Ù.
+qpython:S117Ò&"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+bpython:S112ÕM">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603›"(Remove this unused function declaration.(À²åq8º·Ï•Ù.
+Kpython:S1481Û"+Remove the unused local variable "O_RSYNC".(ìÀÉÔ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(ÒÎñÚùÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Ã"(Remove this unused function declaration.(€Óª¬úÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603"(Remove this unused function declaration.(É¢±Öşÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603¬"(Remove this unused function declaration.(ááÒ€8º·Ï•Ù.
+opython:S1192©y"ODefine a constant instead of duplicating this literal "Downloading.." 23 times.(ÖÈ·¦8º·Ï•Ù.
+Hpython:S5603­"(Remove this unused function declaration.(ê¹ß8º·Ï•Ù.
+Qpython:S1481„",Remove the unused local variable "SCHED_RR".(û½Ğ›ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112W">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112—P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603ñ"(Remove this unused function declaration.(ŞÆßÄ8º·Ï•Ù.
+Hpython:S5603Ò"(Remove this unused function declaration.(ë”ù8º·Ï•Ù.
+Hpython:S5603ô"(Remove this unused function declaration.(ôÜŠç8º·Ï•Ù.
+Mpython:S5603¶;"(Remove this unused function declaration.(äîŒ¹úÿÿÿÿ8º·Ï•Ù.
+Ppython:S5806“"+Rename this variable; it shadows a builtin.(ı¿¶”ÿÿÿÿÿ8º·Ï•Ù.
+Ppython:S1481–"+Remove the unused local variable "WEXITED".(ÔÆŠ’şÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603"(Remove this unused function declaration.(Ë¨ÿí8º·Ï•Ù.
+Npython:S1481ô9".Remove the unused local variable "executable".(‹İ‘ä8º·Ï•Ù.
+Hpython:S5603ò"(Remove this unused function declaration.(üúËà8º·Ï•Ù.
+Ppython:S5806·b"+Rename this variable; it shadows a builtin.(º…§éûÿÿÿÿ8º·Ï•Ù.
+Gpython:S5603Ê"(Remove this unused function declaration.(ìêæt8º·Ï•Ù.
+qpython:S117Ô'"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Qpython:S1481ê‡"+Remove the unused local variable "NEWLINE".(Ùç¶Ÿûÿÿÿÿ8º·Ï•Ù.
+Tpython:S1481§‰".Remove the unused local variable "ModuleType".(¹ïµ–ıÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603é"(Remove this unused function declaration.(â€‰˜8º·Ï•Ù.
+bpython:S112¸Q">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112–V">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Ipython:S1481ï")Remove the unused local variable "P_ALL".(»³¯®8º·Ï•Ù.
+Mpython:S5603İ"(Remove this unused function declaration.(ì‚„åşÿÿÿÿ8º·Ï•Ù.
+vpython:S1542áˆ"PRename function "ISTERMINAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(É‘‚íşÿÿÿÿ8º·Ï•Ù.
+Npython:S1481”".Remove the unused local variable "WCONTINUED".(›Å´8º·Ï•Ù.
+bpython:S112±Q">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+[python:S1481è>";Remove the unused local variable "CLOCK_THREAD_CPUTIME_ID".(ÕØÉÛ8º·Ï•Ù.
+Hpython:S5603¤?"(Remove this unused function declaration.(½Ù8º·Ï•Ù.
+Zpython:S1481ûˆ"4Remove the unused local variable "MappingProxyType".(±µˆûûÿÿÿÿ8º·Ï•Ù.
+ypython:S1542äˆ"SRename function "ISNONTERMINAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ú€œ¢şÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603«<"(Remove this unused function declaration.(¾›Ò¸úÿÿÿÿ8º·Ï•Ù.
+„python:S117³‰"eRename this local variable "GetSetDescriptorType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Âæ—h8º·Ï•Ù.
+Hpython:S5603´"(Remove this unused function declaration.(îò¶8º·Ï•Ù.
+Hpython:S5603ì"(Remove this unused function declaration.(«ª¦8º·Ï•Ù.
+Qpython:S1481šB",Remove the unused local variable "__spec__".(Æåúüÿÿÿÿ8º·Ï•Ù.
+Ypython:S1481‘"4Remove the unused local variable "_base_executable".(ËÖŸ²ùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Ô"(Remove this unused function declaration.(à´€¥8º·Ï•Ù.
+spython:S3776ØE"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÀÈ 8º·Ï•Ù.
+Hpython:S5603Ô"(Remove this unused function declaration.(Å§Œ‹8º·Ï•Ù.
+Rpython:S1481æ>"2Remove the unused local variable "CLOCK_REALTIME".(ğ¢ÉÃ8º·Ï•Ù.
+Mpython:S5603²"(Remove this unused function declaration.(­§Ìèúÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481…"+Remove the unused local variable "modules".(ÌËñ8º·Ï•Ù.
+Hpython:S5603ê:"(Remove this unused function declaration.(¼Â£¡8º·Ï•Ù.
+Hpython:S5603à"(Remove this unused function declaration.(èëş’8º·Ï•Ù.
+Ppython:S1481±"0Remove the unused local variable "EX_CANTCREAT".(Ë‡ƒ8º·Ï•Ù.
+Npython:S1481ˆ".Remove the unused local variable "ST_NOATIME".(ŞŞÛ°8º·Ï•Ù.
+bpython:S112ôU">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481À",Remove the unused local variable "EX_USAGE".(…§ãå8º·Ï•Ù.
+Mpython:S5603Û"(Remove this unused function declaration.(‚û¾»şÿÿÿÿ8º·Ï•Ù.
+qpython:S117“("MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯¼ñùÿÿÿÿ8º·Ï•Ù.
+Ipython:S1481‹:")Remove the unused local variable "_home".(™ØŸÅ8º·Ï•Ù.
+Mpython:S5603ó"(Remove this unused function declaration.(İ¬ıÿÿÿÿ8º·Ï•Ù.
+Kpython:S1481ü9"+Remove the unused local variable "maxsize".(„Â8º·Ï•Ù.
+Wpython:S1481ƒ:"2Remove the unused local variable "pycache_prefix".(¢¯ã–ùÿÿÿÿ8º·Ï•Ù.
+bpython:S112õR">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112ëV">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ß"(Remove this unused function declaration.(¯·‹Ûùÿÿÿÿ8º·Ï•Ù.
+qpython:S1542"QRename function "WEXITSTATUS" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ë¨ÿí8º·Ï•Ù.
+bpython:S112‚P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112¬K">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603á"(Remove this unused function declaration.(·éúışÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481Ï",Remove the unused local variable "O_DIRECT".(õÁ ×8º·Ï•Ù.
+Hpython:S5603“"(Remove this unused function declaration.(»óÕŸ8º·Ï•Ù.
+Ppython:S1481Ş>"+Remove the unused local variable "altzone".(¿ôÿŸúÿÿÿÿ8º·Ï•Ù.
+\python:S5754ÖH"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8º·Ï•Ù.
+Kpython:S1481é‡"*Remove the unused local variable "STRING".(Ùˆó±8º·Ï•Ù.
+Vpython:S1481Ä"1Remove the unused local variable "exc_traceback".(Î°ˆ®ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112¯T">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+zpython:S3776—y"URefactor this function to reduce its Cognitive Complexity from 208 to the 15 allowed.(À¯‹üÿÿÿÿ8º·Ï•Ù.
+Lpython:S1481"-Remove the unused local variable "ST_RDONLY".(ßáY8º·Ï•Ù.
+{python:S117‰"[Rename this local variable "MethodType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê·Ù÷8º·Ï•Ù.
+ppython:S1192šL"KDefine a constant instead of duplicating this literal "my age is " 5 times.(Í˜ –ùÿÿÿÿ8º·Ï•Ù.
+~python:S117û"ZRename this local variable "Unpickler" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÕ‚Íùÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603®"(Remove this unused function declaration.(Á±Û§8º·Ï•Ù.
+Jpython:S1481Â"*Remove the unused local variable "F_LOCK".(ÍÉ½ö8º·Ï•Ù.
+Kpython:S1481›",Remove the unused local variable "WSTOPPED".(Íp8º·Ï•Ù.
+Npython:S1481„".Remove the unused local variable "hexversion".(æÖ—¯8º·Ï•Ù.
+Mpython:S5603Ò"(Remove this unused function declaration.(±ÄÛ™ÿÿÿÿÿ8º·Ï•Ù.
+bpython:S112ØS">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+bpython:S112€W">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+”python:S1192~"uDefine a constant instead of duplicating this literal '/home/obedotto/anaconda3/envs/joeljebitto/bin/python' 4 times.(‹İ‘ä8º·Ï•Ù.
+Hpython:S5603Î<"(Remove this unused function declaration.(¨ÙÓ8º·Ï•Ù.
+Hpython:S5603‰"(Remove this unused function declaration.(®ŞªË8º·Ï•Ù.
+Opython:S1481½"/Remove the unused local variable "EX_SOFTWARE".( ò¤¸8º·Ï•Ù.
+Ppython:S1481Î"+Remove the unused local variable "O_CREAT".(–ˆşÛıÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603ä"(Remove this unused function declaration.(öÕ¼Êúÿÿÿÿ8º·Ï•Ù.
+Spython:S1481¼".Remove the unused local variable "__stderr__".(ÅŒ€ÿÿÿÿÿ8º·Ï•Ù.
+Mpython:S5603Æ"(Remove this unused function declaration.(òÊˆ×ûÿÿÿÿ8º·Ï•Ù.
+]python:S112¾t">Replace this generic exception class with a more specific one.(Æí­Â8º·Ï•Ù.
+Opython:S1481"/Remove the unused local variable "ST_RELATIME".(úÑï“8º·Ï•Ù.
+Mpython:S1481r"/Remove the unused local variable "api_version".(Ğ¥?8º·Ï•Ù.
+bpython:S112²P">Replace this generic exception class with a more specific one.(•ß¹¸üÿÿÿÿ8º·Ï•Ù.
+Hpython:S5603Â"(Remove this unused function declaration.(¬„€ï8º·Ï•Ù.
+lpython:S1192¢y"LDefine a constant instead of duplicating this literal "Download.." 23 times.(½ìËº8º·Ï•Ù.

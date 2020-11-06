@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">automatic_plant_watering</string>
+    <string name="start_watering">start_watering</string>
+    <string name="how_many_water">how_many_water: </string>
+    <string name="how_many_dry_number">0</string>
+</resources>

@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Firrst,org.eclipse.launchbar.core.descriptorType.default\:build_a_Calculator,org.eclipse.launchbar.core.descriptorType.default\:myfirstjavaproject,org.eclipse.launchbar.core.descriptorType.default\:userinterfase,org.eclipse.launchbar.core.descriptorType.default\:build_a_if_the_user_enter_somethig_it_will_repate_again,org.eclipse.launchbar.core.descriptorType.default\:Bacics,org.eclipse.launchbar.core.descriptorType.default\:Introduction_to_Objects,org.eclipse.launchbar.core.descriptorType.default\:Main
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Bacics/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Bacics/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Firrst/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Firrst/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:build_a_Calculator/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:build_a_Calculator/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:myfirstjavaproject/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:myfirstjavaproject/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:userinterfase/activeLaunchMode=debug

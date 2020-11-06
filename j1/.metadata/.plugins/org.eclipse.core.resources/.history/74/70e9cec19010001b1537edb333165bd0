@@ -1,0 +1,18 @@
+package pro1.myjavaprogram;
+import java.util.*;
+import java.lang.*;
+import java.text.*;
+
+import java.awt.*;
+
+public class userinterfase {
+	public static void main(String[] args) {
+		Scanner sane_a_user = new Scanner(System.in);
+		System.out.print("user_inter_fase: ");
+		
+		boolean bn1 = true;
+		
+		Point pt1 = new Point(120,160);
+		System.out.print("boolean: " + bn1);
+	}
+}

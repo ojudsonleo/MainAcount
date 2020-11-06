@@ -1,0 +1,11 @@
+package pro1.my_2_java_program;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Dog joeljebitto = new Dog("joeljebitto", 11);
+		joeljebitto.speak();
+	}
+
+}

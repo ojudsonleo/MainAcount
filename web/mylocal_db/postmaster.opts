@@ -1,0 +1,1 @@
+/media/obedotto/MyData/anaconda3/envs/joeljebitto/bin/postgres "-D" "mylocal_db"

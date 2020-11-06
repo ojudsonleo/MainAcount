@@ -1,0 +1,21 @@
+package pro1.my_2_java_program;
+
+import java.util.Scanner;
+
+public class Introduction_to_Objects {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc  = new Scanner(System.in);
+		//sc.next();
+		
+		String h = "hello";
+		h.length();
+		
+		
+		Data("hello", 7, true, 5.0, 8);
+	}public static void Data(String str, int integer, boolean TrueorFalse, double Double, float Float) {
+		System.out.println(" str stroage: " + str + "\n integer storage: " + integer + "\n Boolean storage: " + TrueorFalse + "\n Double storage: " + Double + "\n Float storage");
+	}
+
+}
