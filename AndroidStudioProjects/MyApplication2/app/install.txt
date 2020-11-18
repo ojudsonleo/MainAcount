@@ -1,8 +1,0 @@
-AndroidStudio
-Java
-JDK
-Pycharm
-Jupyter lab
-Jupyter NoteBook
-appName londonAppBrewery.com
-name = Minted

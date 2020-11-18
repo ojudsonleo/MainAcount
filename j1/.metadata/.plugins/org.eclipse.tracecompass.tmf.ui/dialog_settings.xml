@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="org.eclipse.tracecompass.tmf.ui.views.callstack.CallStackView">
-		<item value="BY_NAME_REV" key="sort.option"/>
-	</section>
-</section>

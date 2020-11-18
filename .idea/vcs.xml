@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/Xylophone-Android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/library" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/library/X-O-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library/lib1/example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web/react-tracks-client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web/x_o" vcs="Git" />

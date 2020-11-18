@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="org.eclipse.tracecompass.internal.tmf.analysis.xml.ui.views.scattergraph">
-	</section>
-	<section name="org.eclipse.tracecompass.internal.tmf.analysis.xml.ui.views.density">
-	</section>
-	<section name="org.eclipse.tracecompass.internal.tmf.analysis.xml.ui.views.latencytable">
-	</section>
-</section>

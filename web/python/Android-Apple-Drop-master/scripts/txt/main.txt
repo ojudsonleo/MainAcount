@@ -1,4 +1,0 @@
-A left
-D right
-p pause
-e exit

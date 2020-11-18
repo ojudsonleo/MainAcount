@@ -1,5 +1,0 @@
-print("'NAME': 'db',")
-print("'USER': 'mynonsuperuser',")
-print("'PASSWORD': '12345',")
-print("'HOST': 'localhost',")
-print("'PORT': '',")

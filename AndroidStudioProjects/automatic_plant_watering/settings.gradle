@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "automatic_plant_watering"
